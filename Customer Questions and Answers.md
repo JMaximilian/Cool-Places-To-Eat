@@ -1,4 +1,4 @@
-###Question 1:
+### Question 1:
 Hello,
 
 I'm new to search engines, and there are a lot of concepts I'm not educated on. To make my onboarding smoother, it'd help if you could provide me with some definitions of the following concepts:
@@ -10,7 +10,7 @@ I'm also struggling with understanding what types of metrics would be useful to 
 Cheers,
 George
 
-###Answer 1:
+### Answer 1:
 Hi George, 
 
 Thank you for reaching out. 
@@ -52,15 +52,11 @@ Please let me know if any of this is not clear or if you need further informatio
 Have a nice day! 
 John
 
-Johannes Meuthen
-Solutions Engineer
-Algolia
+Johannes Meuthen  
+Solutions Engineer  
+Algolia  
 
-
-
-
-
-###Question 2:
+### Question 2:
 Hello,
 
 Sorry to give you the kind of feedback that I know you do not want to hear, but I really hate the new dashboard design. 
@@ -69,7 +65,7 @@ Clearing and deleting indexes are now several clicks away. I am needing to use t
 Regards,
 Matt
 
-###Answer 2:
+### Answer 2:
 Hi Matt, 
 
 Thank you for your feedback! 
@@ -87,23 +83,23 @@ Here is our documentation about it:
 Please let me know if this is an acceptable solution for you. 
 
 
-Have a nice day! 
+Have a nice day!   
 John
 
-Johannes Meuthen
-Solutions Engineer
+Johannes Meuthen  
+Solutions Engineer  
 Algolia
 
 
-###Question 3:
+### Question 3:
 Hi,
 
 I'm looking to integrate Algolia in my website. Will this be a lot of development work for me? What's the high level process look like?
 
-Regards,
+Regards,  
 Leo
 
-###Answer 2:
+### Answer 3:
 Hi Leo, 
 
 Thank you for reaching out today!
@@ -125,9 +121,9 @@ To assess your case in detail I propose a first meeting, so that you can explain
 Would you have time next week?
 
 
-Have a nice day! 
-John
+Have a nice day!   
+John  
 
-Johannes Meuthen
-Solutions Engineer
+Johannes Meuthen  
+Solutions Engineer  
 Algolia
