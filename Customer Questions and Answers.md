@@ -49,7 +49,7 @@ https://www.youtube.com/watch?v=yUx9OE9mgV4
 
 Please let me know if any of this is not clear or if you need further information. 
 
-Have a nice day! 
+Have a nice day!  
 John
 
 Johannes Meuthen  
